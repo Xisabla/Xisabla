@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2022 - To: 19 May 2022
+From: 13 May 2022 - To: 20 May 2022
 
-Total Time: 12 hrs 37 mins
+Total Time: 17 hrs 20 mins
 
-Python       4 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.88 %
-C++          3 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.55 %
-Docker       1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Markdown     56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-YAML         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JSON         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Python       6 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   39.71 %
+C++          3 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+YAML         2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Docker       1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Markdown     56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Makefile     43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
