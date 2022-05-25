@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-Total Time: 20 hrs 27 mins
+Total Time: 20 hrs 19 mins
 
-Python       12 hrs 9 mins   ███████████████░░░░░░░░░░   59.42 %
-C++          3 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-YAML         1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Makefile     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python       13 hrs 16 mins  ████████████████▒░░░░░░░░   65.32 %
+C++          3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+YAML         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+JSON         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Makefile     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
