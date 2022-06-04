@@ -9,14 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2022 - To: 02 June 2022
+From: 27 May 2022 - To: 03 June 2022
 
-Total Time: 12 mins
+Total Time: 2 mins
 
-JSON     11 mins         ███████████████████████▒░   93.39 %
-Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-TeX      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JSON     2 mins          ████████████████████░░░░░   80.65 %
+Python   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.35 %
 ```
 
 <!--END_SECTION:waka-->
