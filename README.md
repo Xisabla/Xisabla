@@ -9,12 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
+From: 08 July 2022 - To: 15 July 2022
 
 Total Time: 1 min
 
-C++     1 min           ███████████████████▓░░░░░   78.18 %
-Other   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+C++   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
