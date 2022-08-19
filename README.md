@@ -9,13 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Total Time: 3 hrs
+Total Time: 1 hr 56 mins
 
-C++           2 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   35.18 %
-TypeScript    2 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.21 %
-Other         1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+TypeScript   2 hrs 9 mins    █████████████████▓░░░░░░░   70.74 %
+C++          47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
