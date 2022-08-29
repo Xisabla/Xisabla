@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 August 2022 - To: 28 August 2022
+
+Total Time: 3 mins
+
+C++   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
