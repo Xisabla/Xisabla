@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-Total Time: 1 hr
+Total Time: 1 hr 26 mins
 
-C++           56 mins         ███████████████████████▒░   93.52 %
-C             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+C++           1 hr 18 mins    ██████████████████████▓░░   90.73 %
+C             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Makefile      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
