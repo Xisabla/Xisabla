@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 22 September 2022
+From: 17 September 2022 - To: 24 September 2022
 
-Total Time: 1 hr 20 mins
+Total Time: 37 mins
 
-Makefile   40 mins         ████████████▓░░░░░░░░░░░░   50.02 %
-C++        25 mins         ████████░░░░░░░░░░░░░░░░░   31.58 %
-Markdown   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+C++        21 mins         ██████████████▒░░░░░░░░░░   57.46 %
+Markdown   13 mins         ████████▓░░░░░░░░░░░░░░░░   34.72 %
+Makefile   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
