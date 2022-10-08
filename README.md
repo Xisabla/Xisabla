@@ -9,13 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
-
-Total Time: 7 mins
-
-HTML         4 mins          ███████████████▒░░░░░░░░░   61.19 %
-JavaScript   1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-JSON         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
