@@ -9,7 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 October 2022 - To: 08 October 2022
+
+Total Time: 1 hr 3 mins
+
+C++        55 mins         █████████████████████▓░░░   86.82 %
+Makefile   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+C          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
