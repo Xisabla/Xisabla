@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 October 2022 - To: 22 October 2022
+
+Total Time: 20 mins
+
+Python   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
