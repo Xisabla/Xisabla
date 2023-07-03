@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-Total Time: 0 secs
+Total Time: 1 hr 40 mins
 
-No activity tracked
+Bash     1 hr 3 mins     ████████████▓░░░░░░░░░░░░   50.63 %
+JSON     31 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Other    24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Text     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
