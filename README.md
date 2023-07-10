@@ -9,15 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2023 - To: 08 July 2023
+From: 02 July 2023 - To: 09 July 2023
 
-Total Time: 2 hrs 3 mins
+Total Time: 22 mins
 
-Bash         1 hr 26 mins    ██████████████▒░░░░░░░░░░   57.63 %
-JSON         31 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-Other        26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-Text         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Bash         22 mins         ███████████████████████▓░   94.07 %
+Other        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
