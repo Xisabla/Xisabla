@@ -9,13 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2023 - To: 19 July 2023
+From: 14 July 2023 - To: 21 July 2023
 
-Total Time: 32 mins
+Total Time: 2 hrs 32 mins
 
-Bash       30 mins         ███████████████████████▒░   93.64 %
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JavaScript   1 hr 21 mins    █████████████░░░░░░░░░░░░   52.51 %
+Bash         30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+HTML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+TypeScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
