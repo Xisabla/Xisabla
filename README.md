@@ -2,7 +2,7 @@
 <h3 align="center">I'm a curiosity driven Web explorer 🚀 and Code wizard 🧙</h3>
 
 <p align="center">
-  <a href="http://xisabla.pro">Website 🖥️ </a> •
+  <a href="https://xisabla.github.io/">Website 🖥️ </a> •
   <a href="mailto:xisabla.dev@gmail.com">Say hi ! ✉️</a>
 </p>
 
