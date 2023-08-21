@@ -9,11 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
-Total Time: 0 secs
+Total Time: 5 mins
 
-TypeScript   0 secs          █████████████████████████   100.00 %
+JSON         3 mins          ████████████████░░░░░░░░░   63.34 %
+TypeScript   2 mins          █████████░░░░░░░░░░░░░░░░   36.66 %
 ```
 
 <!--END_SECTION:waka-->
