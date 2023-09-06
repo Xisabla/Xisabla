@@ -9,15 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Total Time: 3 hrs 45 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 57 mins    █████████████░░░░░░░░░░░░   52.16 %
-SCSS         1 hr 34 mins    ██████████▒░░░░░░░░░░░░░░   41.74 %
-Text         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
