@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-Total Time: 0 secs
+Total Time: 5 hrs 36 mins
 
-No activity tracked
+JSON           1 hr 32 mins    ███████░░░░░░░░░░░░░░░░░░   27.41 %
+YAML           1 hr 23 mins    ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+Bash           1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+Markdown       57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+TypeScript     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
