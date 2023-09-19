@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-Total Time: 23 hrs 13 mins
+Total Time: 20 hrs 37 mins
 
-YAML           12 hrs 47 mins  █████████████▓░░░░░░░░░░░   54.73 %
-ActionScript   2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Markdown       1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Bash           57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Jinja2         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+YAML           10 hrs 58 mins  █████████████▒░░░░░░░░░░░   52.84 %
+ActionScript   2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Markdown       1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Bash           1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Jinja2         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
