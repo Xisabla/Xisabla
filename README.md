@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Total Time: 7 hrs 51 mins
+Total Time: 7 hrs 18 mins
 
-TypeScript       4 hrs 6 mins    █████████████░░░░░░░░░░░░   52.29 %
-JSON             1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Markdown         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-TSConfig         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-GitIgnore file   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+TypeScript       3 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.41 %
+JSON             1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Markdown         46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+TSConfig         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+GitIgnore file   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->
