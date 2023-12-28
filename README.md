@@ -9,15 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-Total Time: 30 mins
+Total Time: 0 secs
 
-CMake            12 mins         ██████████▓░░░░░░░░░░░░░░   43.20 %
-C++              10 mins         ████████▓░░░░░░░░░░░░░░░░   34.90 %
-Markdown         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-C                2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
