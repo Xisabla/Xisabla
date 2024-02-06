@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2024 - To: 04 February 2024
+From: 29 January 2024 - To: 05 February 2024
 
-Total Time: 0 secs
+Total Time: 35 mins
 
-No activity tracked
+JSON         20 mins         ██████████████░░░░░░░░░░░   56.56 %
+TypeScript   9 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+yarn.lock    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+TSConfig     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+SourceMap    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
