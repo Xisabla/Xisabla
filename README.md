@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 5 mins
 
-No activity tracked
+Prisma       37 mins         ██████████████▒░░░░░░░░░░   56.85 %
+TypeScript   19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.76 %
+JSON         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
