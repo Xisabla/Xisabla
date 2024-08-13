@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2024 - To: 11 August 2024
+From: 05 August 2024 - To: 12 August 2024
 
-Total Time: 0 secs
+Total Time: 36 mins
 
-No activity tracked
+Prisma       13 mins         █████████▒░░░░░░░░░░░░░░░   37.19 %
+TypeScript   13 mins         █████████▒░░░░░░░░░░░░░░░   36.90 %
+JSON         8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
