@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
-Total Time: 11 hrs 22 mins
+Total Time: 14 hrs 32 mins
 
-Java              4 hrs 26 mins   █████████▒░░░░░░░░░░░░░░░   37.02 %
-TypeScript        1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-YAML              1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Java Properties   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-JSON              1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Java              4 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+TypeScript        4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 %
+JSON              1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+YAML              1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Java Properties   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
