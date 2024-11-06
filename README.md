@@ -9,15 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2024 - To: 04 November 2024
+From: 29 October 2024 - To: 05 November 2024
 
-Total Time: 7 hrs 15 mins
+Total Time: 2 hrs 41 mins
 
-TypeScript   6 hrs 42 mins   █████████████████████▒░░░   85.41 %
-Other        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Docker       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript   2 hrs 38 mins   ████████████████████████░   96.25 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
