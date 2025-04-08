@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-Total Time: 3 hrs 48 mins
+Total Time: 3 hrs 1 min
 
-TypeScript        3 hrs 26 mins   ██████████████████░░░░░░░   71.88 %
-Other             59 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-Markdown          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JavaScript        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Bash              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+TypeScript        2 hrs 50 mins   ███████████████████████▒░   92.89 %
+SQL               6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Markdown          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Prisma            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
