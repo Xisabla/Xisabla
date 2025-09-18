@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Total Time: 5 hrs 49 mins
+Total Time: 6 hrs 55 mins
 
-TypeScript   4 hrs 20 mins   █████████████████▒░░░░░░░   69.56 %
-Text         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-JavaScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Other        25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Prisma       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+TypeScript   5 hrs 24 mins   ██████████████████▒░░░░░░   73.69 %
+Text         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+JavaScript   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Other        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Prisma       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
